@@ -14,4 +14,4 @@ If you're having trouble finding and opening the file to run MMDWD, follow these
 2. In your files app, locate the file in the download location
 3. Extract the .zip file
 4. Once you've extracted the zip file, open it and open the folder inside the zip folder.
-5. Run MMDWD101.html
+5. Run MMDWD102.html
