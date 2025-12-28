@@ -4,7 +4,6 @@ v1.0.3 Update coming out in an hour!
 This will include:
 -2 new sections
 -go back to homepage button
--new font on pages
 
 New updates twice per week! (or more depending on if we decide to)
 
