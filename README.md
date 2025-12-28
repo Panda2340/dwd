@@ -1,6 +1,6 @@
 Thank you for choosing M&M's Dark Web Directory (MMDWD for short)
 
-v1.0.3 coming out later today!
+v1.0.3 Update coming out in an hour!
 This will include:
 -2 new sections
 -go back to homepage button
